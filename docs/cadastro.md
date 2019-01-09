@@ -40,3 +40,5 @@ Se desejar gerar boletos com uma conta jurídica, marque o tipo de conta **empre
 - Razão social
 - Nome fantasia
 - CNPJ
+
+É importante salientar que a conta bancária cadastrada necessita estar em nome e CNPJ da empresa, para que não haja problemas na hora do saque.
