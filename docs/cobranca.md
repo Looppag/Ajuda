@@ -42,6 +42,6 @@ Após informado estas informações, o link para o boleto e a linha digitável a
 
 ## Confirmação de pagamento
 
-Pela natureza da forma de pagamento, o boleto pode levar até 3 dias úteis até que seja compensado e o banco notifique que o boleto foi pago.
+Pela natureza da forma de pagamento, o boleto pode levar até 1 dia útil até que seja compensado e o banco notifique que o boleto foi pago.
 
 No momento em que o banco notifica o pagamento do boleto, o cobrador e o cliente(no e-mail fornecido para gerar o boleto) serão notificados via e-mail da confirmação do pagamento. 
