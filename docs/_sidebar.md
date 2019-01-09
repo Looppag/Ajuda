@@ -4,4 +4,6 @@
 
 * [**Configurações de conta**](configuracoes-conta.md)
 
+* [**Verificação de conta**](verificacao-de-conta.md)
+
 * [**Cobrança**](cobranca.md)
