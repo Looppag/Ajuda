@@ -7,3 +7,5 @@
 * [**Verificação de conta**](verificacao-de-conta.md)
 
 * [**Cobrança**](cobranca.md)
+
+* [**Prazos**](prazos.md)
