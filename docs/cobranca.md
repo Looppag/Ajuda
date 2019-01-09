@@ -6,7 +6,12 @@ Na tela de nova cobrança, deve ser informado as seguintes informações:
 - Descrição (do que está sendo cobrado)
 - Valor (entre R$ 4,00 e R$ 5.000,00)
 - Vencimento (pelo menos um dia posterior ao dia atual)
-- E-mail de cobrança (se informado, será enviado a cobrança por e-mail ao cliente)
+- Cobrar por: 
+    - E-mail (enviar a fatura por e-mail)
+    - Baixar/Imprimir (fazer download em seu computador ou imprimi-lá)
+    - Compartilhar (compartilhar cobrança via WhatsApp ou Messenger)
+- Nome do Pagante (nome de quem está sendo cobrado)
+- E-mail do Pagante (e-mail de quem está sendo cobrado)
 
 ## Fatura
 
