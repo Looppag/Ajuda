@@ -13,3 +13,5 @@ O Loop é uma plataforma de cobrança com boletos.
 * [**Verificação de conta**](verificacao-de-conta.md)
 
 * [**Cobrança**](cobranca.md)
+
+* [**Dúvida**](duvida.md)
