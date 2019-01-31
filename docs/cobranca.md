@@ -45,3 +45,7 @@ Após informado estas informações, o link para o boleto e a linha digitável a
 Pela natureza da forma de pagamento, o boleto pode levar até 1 dia útil até que seja compensado e o banco notifique que o boleto foi pago.
 
 No momento em que o banco notifica o pagamento do boleto, o cobrador e o cliente(no e-mail fornecido para gerar o boleto) serão notificados via e-mail da confirmação do pagamento. 
+
+## Contato
+
+Caso ainda tenha alguma dúvida sobre cobranças, fique a vontade para [Abrir um Ticket](https://loop.desk360.com.br/tickets/new) e enviar sua dúvida diretamente para um de nossos consultores.
