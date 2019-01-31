@@ -42,3 +42,6 @@ Se desejar gerar boletos com uma conta jurídica, marque o tipo de conta **empre
 - CNPJ
 
 É importante salientar que a conta bancária cadastrada necessita estar em nome e CNPJ da empresa, para que não haja problemas na hora do saque.
+
+
+Caso ainda tenha alguma dúvida, você pode [Abrir um Ticket](https://loop.desk360.com.br/tickets/new) e enviar sua dúvida diretamente para um de nossos consultores.
