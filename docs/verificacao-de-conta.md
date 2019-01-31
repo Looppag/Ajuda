@@ -28,3 +28,5 @@ Após a análise ser realizada, o status da verificação pode ser marcada como 
 Se sua conta foi marcada como **Verificada**, então já está tudo certo com a sua conta.
 
 Mas se sua conta está marcada como **Negada**, é necessário entrar em contato através da [**Central de atendimento**](https://loop.desk360.com.br) para que seja possível dar continuidade no processo, e receber a orientação de como prosseguir na verificação de sua conta.
+
+Ou você pde [Abrir um Ticket](https://loop.desk360.com.br/tickets/new) e tirar suas dúvidas diretamente com um dos nossos consultores.
