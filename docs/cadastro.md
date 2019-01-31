@@ -45,4 +45,4 @@ Se desejar gerar boletos com uma conta jurídica, marque o tipo de conta **empre
 
 ## Contato
 
-Caso ainda tenha alguma dúvida, você pode [Abrir um Ticket](https://loop.desk360.com.br/tickets/new) e enviar sua dúvida diretamente para um de nossos consultores.
+Caso ainda tenha alguma dúvida sobre cadastros, você pode [Abrir um Ticket](https://loop.desk360.com.br/tickets/new) e enviar sua dúvida diretamente para um de nossos consultores.
