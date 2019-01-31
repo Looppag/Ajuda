@@ -33,3 +33,6 @@ Informe as seguintes informações:
 - Caso sua conta sejá de pessoa física, é necessário que a conta bancária esteja atrelada ao CPF cadastrado.
 - Mas se sua conta estiver definida como pessoa jurídica, é necessário que a conta bancária esteja atrelado ao CNPJ cadastrado.
 
+## Contato 
+
+Caso ainda tenha alguma dúvida sobre configuração de conta você pode [Abrir um Ticket](https://loop.desk360.com.br/tickets/new) e enviar sua dúvida diretamente para um de nossos consultores.
