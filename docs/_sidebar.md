@@ -9,5 +9,3 @@
 * [**Cobrança**](cobranca.md)
 
 * [**Prazos**](prazos.md)
-
-* [**Contato**](contato.md)
